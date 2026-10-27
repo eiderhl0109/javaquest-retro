@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "JavaQuest retro · Aprende Java explorando",
+  "short_name": "JQ retro",
+  "description": "Aprende Java recorriendo una isla de pixel art: lecciones con Búho Bit, retos, jefes, apuntes y laboratorio.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1e2240",
+  "theme_color": "#14152a",
+  "categories": ["education", "games"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
